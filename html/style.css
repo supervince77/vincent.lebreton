@@ -1,0 +1,61 @@
+/* 
+selecteur {
+    proprietes:valeur;
+
+}
+*/
+
+body{
+    background-color:darkgoldenrod;
+
+}
+
+.super{
+    color: blueviolet;
+}
+
+.superr{
+    color: aliceblue;
+}
+
+.superrr{
+    color: rgb(0, 244, 89);
+}
+
+.superrrr{
+    color: rgb(240, 20, 17);
+}
+
+.superrrrr{
+    color: rgb(0, 200, 255);
+}
+
+h1{
+    color: gold;
+} 
+
+@media screen and (max-width: 1024px) {
+    
+}
+@media screen and ( max-device-width: 480px) {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
