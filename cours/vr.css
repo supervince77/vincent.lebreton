@@ -1,0 +1,84 @@
+h1.titre{
+    font-size: 500%;
+    text-align: center;
+    color: black;
+}
+section.jam{
+    display: flex;
+    flex-direction: row;
+    font-size: 200%;
+    margin-left: 10%;
+}
+section.maj{
+    display:  flex;
+    flex-direction: row-reverse;
+    font-size: 200%;
+    margin-right: 10%;
+}
+img.img{
+    
+    border: 5px solid blueviolet;
+    height: 150px;
+    width: 150px;  
+    margin: auto;
+}
+img.img1{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    border: 5px solid red
+}
+img.img2{
+    height: 150px;
+    width: 150px;  
+    margin: auto;
+    border: 5px solid gold
+}
+img.img3{
+    height: 150px;
+    width: 150px;  
+    margin: auto;
+    border: 5px solid darkblue
+}
+img.img4{
+    height: 150px;
+    width: 150px;  
+    margin: auto;
+    border: 5px solid magenta
+}
+img.img5{
+    height: 150px;
+    width: 150px;  
+    margin: auto;
+    border: 5px solid peru
+}
+p.test{
+    border: 5px solid blueviolet;
+    margin-left: 3%;
+}
+p.ta{
+    border: 5px solid red;
+    margin-right: 3% ;
+}
+p.tz{
+    border: 5px solid gold;
+    margin-left: 3%;
+}
+p.te{
+    border: 5px solid darkblue;
+    margin-right: 3% ;
+}
+p.tr{
+    border: 5px solid magenta;
+    margin-left: 3%;
+}
+p.tt{
+    border: 5px solid peru;
+    margin-right: 3% ;
+}
+body{
+    background-color: honeydew;
+}
+@media screen and(max-device-width: 480xp){
+ 
+}
